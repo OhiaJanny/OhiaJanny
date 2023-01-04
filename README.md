@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OhiaJanny
-- 👀 I’m interested in web development, Javascript and front end development
+- 👀 I’m interested in  frontend development
 - 🌱 I’m currently learning Software engineering
-- 💞️ I’m looking to collaborate on Data science
+- 💞️ I’m looking to collaborate on frontend dev
 - 📫 How to reach me janechidera12@gmail.com
 
 <!---
