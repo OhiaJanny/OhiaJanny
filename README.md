@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @OhiaJanny
-- 👀 I’m interested in  frontend development
-- 🌱 I’m currently learning Software engineering
-- 💞️ I’m looking to collaborate on frontend dev
+- 👋 Hi, I’m Ohia Jane Chidera
+- 👀 A frontend developer
 - 📫 How to reach me janechidera12@gmail.com
 
 <!---
