@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ohia Jane Chidera
+- 👋 Hi, I’m Jane.
+- I'm exploring the world of DeepMaps
   
 
 <!---
